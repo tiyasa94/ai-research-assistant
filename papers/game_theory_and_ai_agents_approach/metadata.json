@@ -1,0 +1,89 @@
+{
+  "2412.05450v1": {
+    "title": "Promoting Cooperation in the Public Goods Game using Artificial Intelligent Agents",
+    "authors": [
+      "Arend Hintze",
+      "Christoph Adami"
+    ],
+    "summary": "The tragedy of the commons illustrates a fundamental social dilemma where\nindividual rational actions lead to collectively undesired outcomes,\nthreatening the sustainability of shared resources. Strategies to escape this\ndilemma, however, are in short supply. In this study, we explore how artificial\nintelligence (AI) agents can be leveraged to enhance cooperation in public\ngoods games, moving beyond traditional regulatory approaches to using AI as\nfacilitators of cooperation. We investigate three scenarios: (1) Mandatory\nCooperation Policy for AI Agents, where AI agents are institutionally mandated\nalways to cooperate; (2) Player-Controlled Agent Cooperation Policy, where\nplayers evolve control over AI agents' likelihood to cooperate; and (3) Agents\nMimic Players, where AI agents copy the behavior of players. Using a\ncomputational evolutionary model with a population of agents playing public\ngoods games, we find that only when AI agents mimic player behavior does the\ncritical synergy threshold for cooperation decrease, effectively resolving the\ndilemma. This suggests that we can leverage AI to promote collective well-being\nin societal dilemmas by designing AI agents to mimic human players.",
+    "pdf_url": "http://arxiv.org/pdf/2412.05450v1",
+    "published": "2024-12-06"
+  },
+  "2412.18601v1": {
+    "title": "Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems",
+    "authors": [
+      "Fernando Jia",
+      "Jade Zheng",
+      "Florence Li"
+    ],
+    "summary": "In the rapidly evolving landscape of GameFi, a fusion of gaming and\ndecentralized finance (DeFi), there exists a critical need to enhance player\nengagement and economic interaction within gaming ecosystems. Our GameFi\necosystem aims to fundamentally transform this landscape by integrating\nadvanced embodied AI agents into GameFi platforms. These AI agents, developed\nusing cutting-edge large language models (LLMs), such as GPT-4 and Claude AI,\nare capable of proactive, adaptive, and contextually rich interactions with\nplayers. By going beyond traditional scripted responses, these agents become\nintegral participants in the game's narrative and economic systems, directly\ninfluencing player strategies and in-game economies. We address the limitations\nof current GameFi platforms, which often lack immersive AI interactions and\nmechanisms for community engagement or creator monetization. Through the deep\nintegration of AI agents with blockchain technology, we establish a\nconsensus-driven, decentralized GameFi ecosystem. This ecosystem empowers\ncreators to monetize their contributions and fosters democratic collaboration\namong players and creators. Furthermore, by embedding DeFi mechanisms into the\ngaming experience, we enhance economic participation and provide new\nopportunities for financial interactions within the game. Our approach enhances\nplayer immersion and retention and advances the GameFi ecosystem by bridging\ntraditional gaming with Web3 technologies. By integrating sophisticated AI and\nDeFi elements, we contribute to the development of more engaging, economically\nrobust, and community-centric gaming environments. This project represents a\nsignificant advancement in the state-of-the-art in GameFi, offering insights\nand methodologies that can be applied throughout the gaming industry.",
+    "pdf_url": "http://arxiv.org/pdf/2412.18601v1",
+    "published": "2024-12-24"
+  },
+  "2212.13338v2": {
+    "title": "Teamwork under extreme uncertainty: AI for Pokemon ranks 33rd in the world",
+    "authors": [
+      "Nicholas R. Sarantinos"
+    ],
+    "summary": "The highest grossing media franchise of all times, with over \\$90 billion in\ntotal revenue, is Pokemon. The video games belong to the class of Japanese Role\nPlaying Games (J-RPG). Developing a powerful AI agent for these games is very\nhard because they present big challenges to MinMax, Monte Carlo Tree Search and\nstatistical Machine Learning, as they are vastly different from the well\nexplored in AI literature games. An AI agent for one of these games means\nsignificant progress in AI agents for the entire class. Further, the key\nprinciples of such work can hopefully inspire approaches to several domains\nthat require excellent teamwork under conditions of extreme uncertainty,\nincluding managing a team of doctors, robots or employees in an ever changing\nenvironment, like a pandemic stricken region or a war-zone. In this paper we\nfirst explain the mechanics of the game and we perform a game analysis. We\ncontinue by proposing unique AI algorithms based on our understanding that the\ntwo biggest challenges in the game are keeping a balanced team and dealing with\nthree sources of uncertainty. Later on, we describe why evaluating the\nperformance of such agents is challenging and we present the results of our\napproach. Our AI agent performed significantly better than all previous\nattempts and peaked at the 33rd place in the world, in one of the most popular\nbattle formats, while running on only 4 single socket servers.",
+    "pdf_url": "http://arxiv.org/pdf/2212.13338v2",
+    "published": "2022-12-27"
+  },
+  "2205.09813v1": {
+    "title": "A Novel Weighted Ensemble Learning Based Agent for the Werewolf Game",
+    "authors": [
+      "Mohiuddeen Khan",
+      "Claus Aranha"
+    ],
+    "summary": "Werewolf is a popular party game throughout the world, and research on its\nsignificance has progressed in recent years. The Werewolf game is based on\nconversation, and in order to win, participants must use all of their cognitive\nabilities. This communication game requires the playing agents to be very\nsophisticated to win. In this research, we generated a sophisticated agent to\nplay the Werewolf game using a complex weighted ensemble learning approach.\nThis research work aimed to estimate what other agents/players think of us in\nthe game. The agent was developed by aggregating strategies of different\nparticipants in the AI Wolf competition and thereby learning from them using\nmachine learning. Moreover, the agent created was able to perform much better\nthan other competitors using very basic strategies to show the approach's\neffectiveness in the Werewolf game. The machine learning technique used here is\nnot restricted to the Werewolf game but may be extended to any game that\nrequires communication and action depending on other participants.",
+    "pdf_url": "http://arxiv.org/pdf/2205.09813v1",
+    "published": "2022-05-19"
+  },
+  "2505.06378v1": {
+    "title": "Bi-LSTM based Multi-Agent DRL with Computation-aware Pruning for Agent Twins Migration in Vehicular Embodied AI Networks",
+    "authors": [
+      "Yuxiang Wei",
+      "Zhuoqi Zeng",
+      "Yue Zhong",
+      "Jiawen Kang",
+      "Ryan Wen Liu",
+      "M. Shamim Hossain"
+    ],
+    "summary": "With the advancement of large language models and embodied Artificial\nIntelligence (AI) in the intelligent transportation scenarios, the combination\nof them in intelligent transportation spawns the Vehicular Embodied AI Network\n(VEANs). In VEANs, Autonomous Vehicles (AVs) are typical agents whose local\nadvanced AI applications are defined as vehicular embodied AI agents, enabling\ncapabilities such as environment perception and multi-agent collaboration. Due\nto computation latency and resource constraints, the local AI applications and\nservices running on vehicular embodied AI agents need to be migrated, and\nsubsequently referred to as vehicular embodied AI agent twins, which drive the\nadvancement of vehicular embodied AI networks to offload intensive tasks to\nRoadside Units (RSUs), mitigating latency problems while maintaining service\nquality. Recognizing workload imbalance among RSUs in traditional approaches,\nwe model AV-RSU interactions as a Stackelberg game to optimize bandwidth\nresource allocation for efficient migration. A Tiny Multi-Agent Bidirectional\nLSTM Proximal Policy Optimization (TMABLPPO) algorithm is designed to\napproximate the Stackelberg equilibrium through decentralized coordination.\nFurthermore, a personalized neural network pruning algorithm based on Path\neXclusion (PX) dynamically adapts to heterogeneous AV computation capabilities\nby identifying task-critical parameters in trained models, reducing model\ncomplexity with less performance degradation. Experimental validation confirms\nthe algorithm's effectiveness in balancing system load and minimizing delays,\ndemonstrating significant improvements in vehicular embodied AI agent\ndeployment.",
+    "pdf_url": "http://arxiv.org/pdf/2505.06378v1",
+    "published": "2025-05-09"
+  },
+  "2501.15317v1": {
+    "title": "Welfare Modeling with AI as Economic Agents: A Game-Theoretic and Behavioral Approach",
+    "authors": [
+      "Sheyan Lalmohammed"
+    ],
+    "summary": "The integration of artificial intelligence (AI) into economic systems\nrepresents a transformative shift in decision-making frameworks, introducing\nnovel dynamics between human and AI agents. This paper proposes a welfare model\nthat incorporates both game-theoretic and behavioral dimensions to optimize\ninteractions within human-AI ecosystems. By leveraging agent-based modeling\n(ABM), we simulate these interactions, accounting for trust evolution,\nperceived risks, and cognitive costs. The framework redefines welfare as the\naggregate utility of interactions, adjusted for collaboration synergies,\nefficiency penalties, and equity considerations. Dynamic trust is modeled using\nBayesian updating mechanisms, while synergies between agents are quantified\nthrough a collaboration index rooted in cooperative game theory. Results reveal\nthat trust-building and skill development are pivotal to maximizing welfare,\nwhile sensitivity analyses highlight the trade-offs between AI complexity,\nequity, and efficiency. This research provides actionable insights for\npolicymakers and system designers, emphasizing the importance of equitable AI\nadoption and fostering sustainable human-AI collaborations.",
+    "pdf_url": "http://arxiv.org/pdf/2501.15317v1",
+    "published": "2025-01-25"
+  },
+  "2311.17305v1": {
+    "title": "Two-Step Reinforcement Learning for Multistage Strategy Card Game",
+    "authors": [
+      "Konrad Godlewski",
+      "Bartosz Sawicki"
+    ],
+    "summary": "In the realm of artificial intelligence and card games, this study introduces\na two-step reinforcement learning (RL) strategy tailored for \"The Lord of the\nRings: The Card Game (LOTRCG),\" a complex multistage strategy card game. This\nresearch diverges from conventional RL methods by adopting a phased learning\napproach, beginning with a foundational learning stage in a simplified version\nof the game and subsequently progressing to the complete, intricate game\nenvironment. This methodology notably enhances the AI agent's adaptability and\nperformance in the face of LOTRCG's unpredictable and challenging nature. The\npaper also explores a multi-agent system, where distinct RL agents are employed\nfor various decision-making aspects of the game. This approach has demonstrated\na remarkable improvement in game outcomes, with the RL agents achieving a\nwinrate of 78.5% across a set of 10,000 random games.",
+    "pdf_url": "http://arxiv.org/pdf/2311.17305v1",
+    "published": "2023-11-29"
+  },
+  "2504.14325v2": {
+    "title": "FAIRGAME: a Framework for AI Agents Bias Recognition using Game Theory",
+    "authors": [
+      "Alessio Buscemi",
+      "Daniele Proverbio",
+      "Alessandro Di Stefano",
+      "The Anh Han",
+      "German Castignani",
+      "Pietro Li\u00f2"
+    ],
+    "summary": "Letting AI agents interact in multi-agent applications adds a layer of\ncomplexity to the interpretability and prediction of AI outcomes, with profound\nimplications for their trustworthy adoption in research and society. Game\ntheory offers powerful models to capture and interpret strategic interaction\namong agents, but requires the support of reproducible, standardized and\nuser-friendly IT frameworks to enable comparison and interpretation of results.\nTo this end, we present FAIRGAME, a Framework for AI Agents Bias Recognition\nusing Game Theory. We describe its implementation and usage, and we employ it\nto uncover biased outcomes in popular games among AI agents, depending on the\nemployed Large Language Model (LLM) and used language, as well as on the\npersonality trait or strategic knowledge of the agents. Overall, FAIRGAME\nallows users to reliably and easily simulate their desired games and scenarios\nand compare the results across simulation campaigns and with game-theoretic\npredictions, enabling the systematic discovery of biases, the anticipation of\nemerging behavior out of strategic interplays, and empowering further research\ninto strategic decision-making using LLM agents.",
+    "pdf_url": "http://arxiv.org/pdf/2504.14325v2",
+    "published": "2025-04-19"
+  }
+}

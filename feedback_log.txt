@@ -1,0 +1,34 @@
+Topic: AI Agents
+Question: What is the recent innovation for Agentic RAG?
+Answer: Based on the provided research context, here are some recent innovations and advancements in the field of Agentic RAG (Reinforcement Learning from Human Feedback):
+
+1. **CACA Agent (Capability Collaboration based AI Agent)**:
+   - **Innovation**: The CACA Agent framework focuses on enhancing the deployment and application scalability of AI agents. It emphasizes the collaboration between AI agents' capabilities and human preferences, aiming to make AI agents more adaptable and user-friendly.
+   - **Key Point**: This approach avoids the pitfalls of monolithic AI agents by promoting modularity and collaboration, making it easier to expand the application scenarios of AI agents.
+
+2. **Off-Switching Not Guaranteed**:
+   - **Innovation**: This research addresses the challenge of ensuring AI agents can defer to human preferences, even when they are uncertain. It highlights the importance of AI agents valuing learning and being confident in their ability to understand human preferences.
+   - **Key Point**: The paper discusses the Off-Switch Game model, which is a cooperative framework where AI agents defer to humans, and explains why this deference might not always happen. This insight is crucial for designing AI agents that can effectively collaborate with humans.
+
+3. **AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges**:
+   - **Innovation**: This study provides a structured taxonomy to distinguish between AI Agents and Agentic AI. It offers a comprehensive analysis of their design philosophies, capabilities, and challenges.
+   - **Key Point**: The paper clarifies the differences between AI Agents, which are modular systems driven by Large Language Models (LLMs) and Large Image Models, and Agentic AI, which emphasizes autonomous decision-making and task execution.
+
+4. **Agentic AI and Multiagentic: Are We Reinventing the Wheel?**:
+   - **Innovation**: The article critically examines the use of the terms Agentic AI and Multiagentic AI in the context of generative artificial intelligence. It highlights the need to differentiate these concepts from well-established AI concepts like intelligent agents and multi-agent systems.
+   - **Key Point**: The paper argues for a more precise understanding of these terms to avoid confusion and ensure that the advancements in Agentic AI are meaningful and not redundant.
+
+These innovations and advancements in the field of Agentic RAG focus on improving the usability, adaptability, and collaboration capabilities of AI agents, making them more effective and user-friendly.
+---
+Topic: MCP
+Question: What is the recent MCP releases from IBM?
+Answer: IBM has recently introduced several developments related to the Model Context Protocol (MCP):
+
+1. **MCP Gateway 0.1.0**: Released on June 5, 2025, this initial public release offers a FastAPI-based gateway and federation layer for MCP. It centralizes tool, resource, and prompt registries, supports multiple transport protocols (HTTP/JSON-RPC, WebSocket, Server-Sent Events, and standard input/output), and includes an admin UI with built-in authentication and observability features. ([github.com](https://github.com/IBM/mcp-context-forge/releases?utm_source=openai))
+
+2. **IBM wxflows MCP Server**: Launched on April 17, 2025, this server provides a comprehensive interface for AI applications to interact with IBM wxflows features, enabling AI assistants to assist with various tasks related to integration workflows. ([mcprepository.com](https://mcprepository.com/IBM?utm_source=openai))
+
+3. **IBM Cloud Pak for Integration 16.1.0**: Announced on May 14, 2024, this release includes enhancements such as a new Integration Assistant using conversational AI, extended backup and restore capabilities, and support for deployment on Red Hat OpenShift running in zCX. ([community.ibm.com](https://community.ibm.com/community/user/integration/blogs/leif-davidsen1/2024/05/14/sweet-ibm-announces-cloud-pak-for-integration-1610?utm_source=openai))
+
+These releases reflect IBM's ongoing commitment to advancing AI integration and enhancing the capabilities of MCP-based systems. 
+---

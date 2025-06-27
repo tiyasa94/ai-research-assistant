@@ -1,0 +1,83 @@
+{
+  "2504.08999v1": {
+    "title": "MCP Bridge: A Lightweight, LLM-Agnostic RESTful Proxy for Model Context Protocol Servers",
+    "authors": [
+      "Arash Ahmadi",
+      "Sarah Sharif",
+      "Yaser M. Banad"
+    ],
+    "summary": "Large Language Models (LLMs) are increasingly augmented with external tools\nthrough standardized interfaces like the Model Context Protocol (MCP). However,\ncurrent MCP implementations face critical limitations: they typically require\nlocal process execution through STDIO transports, making them impractical for\nresource-constrained environments like mobile devices, web browsers, and edge\ncomputing. We present MCP Bridge, a lightweight RESTful proxy that connects to\nmultiple MCP servers and exposes their capabilities through a unified API.\nUnlike existing solutions, MCP Bridge is fully LLM-agnostic, supporting any\nbackend regardless of vendor. The system implements a risk-based execution\nmodel with three security levels standard execution, confirmation workflow, and\nDocker isolation while maintaining backward compatibility with standard MCP\nclients. Complementing this server-side infrastructure is a Python based MCP\nGemini Agent that facilitates natural language interaction with MCP tools. The\nevaluation demonstrates that MCP Bridge successfully addresses the constraints\nof direct MCP connections while providing enhanced security controls and\ncross-platform compatibility, enabling sophisticated LLM-powered applications\nin previously inaccessible environments",
+    "pdf_url": "http://arxiv.org/pdf/2504.08999v1",
+    "published": "2025-04-11"
+  },
+  "2504.12757v2": {
+    "title": "MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System",
+    "authors": [
+      "Sonu Kumar",
+      "Anubhav Girdhar",
+      "Ritesh Patil",
+      "Divyansh Tripathi"
+    ],
+    "summary": "As Agentic AI gain mainstream adoption, the industry invests heavily in model\ncapabilities, achieving rapid leaps in reasoning and quality. However, these\nsystems remain largely confined to data silos, and each new integration\nrequires custom logic that is difficult to scale. The Model Context Protocol\n(MCP) addresses this challenge by defining a universal, open standard for\nsecurely connecting AI-based applications (MCP clients) to data sources (MCP\nservers). However, the flexibility of the MCP introduces new risks, including\nmalicious tool servers and compromised data integrity. We present MCP Guardian,\na framework that strengthens MCP-based communication with authentication,\nrate-limiting, logging, tracing, and Web Application Firewall (WAF) scanning.\nThrough real-world scenarios and empirical testing, we demonstrate how MCP\nGuardian effectively mitigates attacks and ensures robust oversight with\nminimal overheads. Our approach fosters secure, scalable data access for AI\nassistants, underscoring the importance of a defense-in-depth approach that\nenables safer and more transparent innovation in AI-driven environments.",
+    "pdf_url": "http://arxiv.org/pdf/2504.12757v2",
+    "published": "2025-04-17"
+  },
+  "2506.13666v1": {
+    "title": "We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems",
+    "authors": [
+      "Junfeng Fang",
+      "Zijun Yao",
+      "Ruipeng Wang",
+      "Haokai Ma",
+      "Xiang Wang",
+      "Tat-Seng Chua"
+    ],
+    "summary": "The development of large language models (LLMs) has entered in a\nexperience-driven era, flagged by the emergence of environment feedback-driven\nlearning via reinforcement learning and tool-using agents. This encourages the\nemergenece of model context protocol (MCP), which defines the standard on how\nshould a LLM interact with external services, such as \\api and data. However,\nas MCP becomes the de facto standard for LLM agent systems, it also introduces\nnew safety risks. In particular, MCP introduces third-party services, which are\nnot controlled by the LLM developers, into the agent systems. These third-party\nMCP services provider are potentially malicious and have the economic\nincentives to exploit vulnerabilities and sabotage user-agent interactions. In\nthis position paper, we advocate the research community in LLM safety to pay\nclose attention to the new safety risks issues introduced by MCP, and develop\nnew techniques to build safe MCP-powered agent systems. To establish our\nposition, we argue with three key parts. (1) We first construct \\framework, a\ncontrolled framework to examine safety issues in MCP-powered agent systems. (2)\nWe then conduct a series of pilot experiments to demonstrate the safety risks\nin MCP-powered agent systems is a real threat and its defense is not trivial.\n(3) Finally, we give our outlook by showing a roadmap to build safe MCP-powered\nagent systems. In particular, we would call for researchers to persue the\nfollowing research directions: red teaming, MCP safe LLM development, MCP\nsafety evaluation, MCP safety data accumulation, MCP service safeguard, and MCP\nsafe ecosystem construction. We hope this position paper can raise the\nawareness of the research community in MCP safety and encourage more\nresearchers to join this important research direction. Our code is available at\nhttps://github.com/littlelittlenine/SafeMCP.git.",
+    "pdf_url": "http://arxiv.org/pdf/2506.13666v1",
+    "published": "2025-06-16"
+  },
+  "2012.03957v2": {
+    "title": "Earth-bound Milli-charge Relics",
+    "authors": [
+      "Maxim Pospelov",
+      "Harikrishnan Ramani"
+    ],
+    "summary": "Dark sector particles with small electric charge, or millicharge, (mCPs) may\nlead to a variety of diverse phenomena in particle physics, astrophysics and\ncosmology. Assuming their possible existence, we investigate the accumulation\nand propagation of mCPs in matter, specifically inside the Earth. Even small\nvalues of millicharge lead to sizeable scattering cross sections on atoms,\nresulting in complete thermalization, and as a consequence, considerable\nbuild-up of number densities of mCPs, especially for the values of masses of\nGeV and higher when the evaporation becomes inhibited. Enhancement of mCP\ndensities compared to their galactic abundance, that can be as big as\n$10^{14}$, leads to the possibility of new experimental probes for this model.\nThe annihilation of pairs of mCPs will result in new signatures for the large\nvolume detectors (such as Super-Kamiokande). Formation of bound states of\nnegatively charged mCPs with nuclei can be observed by direct dark matter\ndetection experiments. A unique probe of mCP can be developed using underground\nelectrostatic accelerators that can directly accelerate mCPs above the\nexperimental thresholds of direct dark matter detection experiments.",
+    "pdf_url": "http://arxiv.org/pdf/2012.03957v2",
+    "published": "2020-12-07"
+  },
+  "2505.14590v4": {
+    "title": "MCIP: Protecting MCP Safety via Model Contextual Integrity Protocol",
+    "authors": [
+      "Huihao Jing",
+      "Haoran Li",
+      "Wenbin Hu",
+      "Qi Hu",
+      "Heli Xu",
+      "Tianshu Chu",
+      "Peizhao Hu",
+      "Yangqiu Song"
+    ],
+    "summary": "As Model Context Protocol (MCP) introduces an easy-to-use ecosystem for users\nand developers, it also brings underexplored safety risks. Its decentralized\narchitecture, which separates clients and servers, poses unique challenges for\nsystematic safety analysis. This paper proposes a novel framework to enhance\nMCP safety. Guided by the MAESTRO framework, we first analyze the missing\nsafety mechanisms in MCP, and based on this analysis, we propose the Model\nContextual Integrity Protocol (MCIP), a refined version of MCP that addresses\nthese gaps. Next, we develop a fine-grained taxonomy that captures a diverse\nrange of unsafe behaviors observed in MCP scenarios. Building on this taxonomy,\nwe develop benchmark and training data that support the evaluation and\nimprovement of LLMs' capabilities in identifying safety risks within MCP\ninteractions. Leveraging the proposed benchmark and training data, we conduct\nextensive experiments on state-of-the-art LLMs. The results highlight LLMs'\nvulnerabilities in MCP interactions and demonstrate that our approach\nsubstantially improves their safety performance.",
+    "pdf_url": "http://arxiv.org/pdf/2505.14590v4",
+    "published": "2025-05-20"
+  },
+  "2406.04788v2": {
+    "title": "Detection Prospects of Millicharged Dark Matter in Unconventional Interferometer",
+    "authors": [
+      "Chrisna Setyo Nugroho"
+    ],
+    "summary": "We propose a novel idea to discover millicharged particles (mCPs) captured by\nthe earth during its existence. It has been demonstrated that the mCPs\naccumulation inside the earth leads to the enhancement of its number density\nmuch larger than the corresponding virial density. We propose to utilize an\nunconventional laser interferometer to probe these earth-bound mCPs through the\ndetection of the photons's phase shift. We demonstrate that, for mCPs mass in\nthe range between $1$ GeV to $10^{12}$ GeV, the sensitivity of probing their\nfractional electric charge $\\epsilon$ could reach as low as $10^{-12}$ to\n$10^{-6}$ provided that mCPs number density is greater than $1~\\text{cm}^{-3}$.",
+    "pdf_url": "http://arxiv.org/pdf/2406.04788v2",
+    "published": "2024-06-07"
+  },
+  "2504.19997v1": {
+    "title": "Simplified and Secure MCP Gateways for Enterprise AI Integration",
+    "authors": [
+      "Ivo Brett"
+    ],
+    "summary": "The increased adoption of the Model Context Protocol (MCP) for AI Agents\nnecessitates robust security for Enterprise integrations. This paper introduces\nthe MCP Gateway to simplify self-hosted MCP server integration. The proposed\narchitecture integrates security principles, authentication, intrusion\ndetection, and secure tunneling, enabling secure self-hosting without exposing\ninfrastructure. Key contributions include a reference architecture, threat\nmodel mapping, simplified integration strategies, and open-source\nimplementation recommendations. This work focuses on the unique challenges of\nenterprise-centric, self-hosted AI integrations, unlike existing public MCP\nserver solutions.",
+    "pdf_url": "http://arxiv.org/pdf/2504.19997v1",
+    "published": "2025-04-28"
+  }
+}

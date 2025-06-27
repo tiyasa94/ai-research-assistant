@@ -1,0 +1,7 @@
+requests
+arxiv
+ragas
+ragas[metrics]
+langchain 
+openai
+langchain-community
