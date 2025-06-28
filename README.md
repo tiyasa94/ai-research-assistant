@@ -1,10 +1,10 @@
-# 🧠 AI Research Paper Assistant
+# AI Research Paper Assistant
 
 An intelligent assistant that fetches **recent arXiv papers**, stores them as **semantic vectors**, and answers your queries using **OpenRouter-powered LLMs** — enhanced with a **feedback loop** for long-term memory and learning.
 
 ---
 
-## 🚀 What This Project Does
+## What This Project Does
 
 🔹 Fetches the latest arXiv papers based on any research topic  
 🔹 Stores paper summaries in a **vector database (ChromaDB)**  
@@ -14,7 +14,7 @@ An intelligent assistant that fetches **recent arXiv papers**, stores them as **
 
 ---
 
-## 🔄 How It Works (System Flow)
+## How It Works (System Flow)
 
 ### Step 1: Topic Input  
 You provide a research topic like:
@@ -44,7 +44,7 @@ If you like the answer:
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Category            | Tools Used |
 |---------------------|------------|
@@ -58,7 +58,7 @@ If you like the answer:
 
 ---
 
-## 🔐 Setup Instructions
+## Setup Instructions
 
 1. **Clone the Repo**
 ```bash
@@ -80,7 +80,7 @@ pip install -r requirements.txt
 ## Sample Run
 $ python3 main.py
 
-🔍 AI Research Paper Assistant
+AI Research Paper Assistant
 -------------------------------
 Enter a research topic (e.g., game theory and agents): AI Agents
 📥 Fetching recent papers on: AI Agents ...
